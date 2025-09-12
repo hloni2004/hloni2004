@@ -75,4 +75,9 @@ I also enjoy **solving problems creatively** and building applications that user
 
 ## 📊 GitHub Stats
 ![Lehlohonolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hloni2004&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hloni2004&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hloni2004&layout=compact&theme=radical)  
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)
