@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lehlohonolo Mokoena
+# Hi 👋, I'm [Lehlohonolo Mokoena](https://portofilo-web.vercel.app)
 
 A passionate **Full-Stack Developer & Data Analytics Trainee** from South Africa - Cape Town  
 💻 Coding | 💡 Problem-Solving | 🌱 Continuous Learning | ⚡ Agile Enthusiast  
@@ -45,7 +45,7 @@ I also love applying **Agile methodologies** to develop applications efficiently
 
 ## 👨‍💻 Projects
 Check out my projects:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-brightgreen?style=for-the-badge&logo=appveyor)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-brightgreen?style=for-the-badge&logo=appveyor)](https://portofilo-web.vercel.app)
 
 ---
 
@@ -82,4 +82,4 @@ I also enjoy **solving problems creatively** and building applications that user
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)
