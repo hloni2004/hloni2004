@@ -6,7 +6,7 @@ A passionate **Full-Stack Developer & Data Analytics Trainee** from South Africa
 ---
 
 ## 🚀 About Me
-I am completing my Diploma in Application Development in ICT at CPUT, combining full-stack development with data analytics. I have also received specialized data analytics training at Capaciti, equipping me with skills in data-driven decision-making and insightful analysis. I enjoy creating scalable, user-friendly applications, database-driven solutions, and analytics tools that provide actionable insights. 
+I am completing my Diploma in Application Development in ICT at CPUT, combining full-stack development with data analytics. I have also receiving specialized data analytics training at Capaciti, equipping me with skills in data-driven decision-making and insightful analysis. I enjoy creating scalable, user-friendly applications, database-driven solutions, and analytics tools that provide actionable insights. 
 
 I also love applying **Agile methodologies** to develop applications efficiently and enjoyably.  
 
