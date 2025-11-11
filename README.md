@@ -11,7 +11,6 @@ I am completing my **Diploma in ICT: Application Development** at the **Cape Pen
 I specialize in developing **scalable, service-oriented applications** using **Java** and **Spring Boot**, applying a **layered architecture** with **domain, service, factory, repository, and controller** layers.  
 
 I am expanding my expertise in **Data Analytics** through specialized training at **Capaciti**, enhancing my skills in **data structuring, cleaning, visualization, and modeling** using **Power BI**, **Excel**, and **Python**.  
-
 Driven by curiosity and innovation, I combine **software development**, **data analytics**, and **blockchain technology** to build **secure, impactful, and future-ready solutions**.
 
 ---
@@ -68,7 +67,7 @@ Driven by curiosity and innovation, I combine **software development**, **data a
 
 ---
 
-## 👨‍💻 Featured Project
+## 👨‍💻 Featured Projects
 
 ### 🌍 SkillLink Africa – Stellar Blockchain Application
 **Tech Stack:** React, Python, Stellar Blockchain  
@@ -84,6 +83,19 @@ The platform uses **smart contracts** and **escrow services** to ensure **secure
 - 💼 Transparent job management for freelancers and clients  
 - 🌍 Blockchain-backed verification and payments  
 - 💰 Reduced transaction costs and fair compensation assurance  
+
+---
+
+### 🚨 Emergency Management App
+**Tech Stack:** React Native, Python Flask, SQLite  
+**Description:**  
+A **mobile-first emergency management application** designed to streamline the reporting and handling of emergencies, ensuring fast and effective coordination between users and emergency services.  
+
+**Core Features:**  
+- 🆘 Real-time incident reporting  
+- 📍 Location tracking for emergency services  
+- 📝 Centralized dashboard for monitoring and managing incidents  
+- 🔔 Notifications to responders and stakeholders for timely action  
 
 ---
 
@@ -114,7 +126,6 @@ Curiosity drives me to explore new technologies and build applications that peop
 ![Lehlohonolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hloni2004&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hloni2004&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hloni2004&theme=radical)
 
 ---
 
