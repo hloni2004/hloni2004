@@ -87,7 +87,9 @@ The platform uses **smart contracts** and **escrow services** to ensure **secure
 ---
 
 ### 🚨 Emergency Management App
-**Tech Stack:** React Native, Python Flask, SQLite  
+**Tech Stack:** Java, Spring Boot, React Native, SQLite  
+🔗 [View Project on GitHub](https://github.com/hloni2004/AlertEmegerency)  
+
 **Description:**  
 A **mobile-first emergency management application** designed to streamline the reporting and handling of emergencies, ensuring fast and effective coordination between users and emergency services.  
 
@@ -96,6 +98,22 @@ A **mobile-first emergency management application** designed to streamline the r
 - 📍 Location tracking for emergency services  
 - 📝 Centralized dashboard for monitoring and managing incidents  
 - 🔔 Notifications to responders and stakeholders for timely action  
+
+---
+
+### 🏫 Student Market – Campus Marketplace Platform
+**Tech Stack:** Java, Spring Boot, React  
+🔗 [View Project on GitHub](https://github.com/hloni2004/StudentMarket2)  
+
+**Description:**  
+**The Student Market** is a student-driven platform that enables learners to **showcase and sell their products** within campus residences and surrounding communities.  
+It encourages entrepreneurship, community engagement, and local economic participation.  
+
+**Core Features:**  
+- 🛒 Product listing and management  
+- 👥 User accounts for students and sellers  
+- 💬 Messaging and order tracking  
+- 📊 Dashboard for sales analytics and reporting  
 
 ---
 
