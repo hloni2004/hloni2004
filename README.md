@@ -1,63 +1,98 @@
-# Hi 👋, I'm [Lehlohonolo Mokoena](https://portofilo-web.vercel.app)
+# 👋 Hi, I'm [Lehlohonolo Mokoena](https://portofilo-web.vercel.app)
 
-A passionate **Full-Stack Developer & Data Analytics Trainee** from South Africa - Cape Town  
-💻 Coding | 💡 Problem-Solving | 🌱 Continuous Learning | ⚡ Agile Enthusiast  
+A passionate **Full-Stack Developer & Data Analytics Trainee** from Cape Town, South Africa 🇿🇦  
+💻 Building Scalable Applications | 📊 Data-Driven Decision-Making | ⚡ Agile Enthusiast | 🌱 Continuous Learner  
 
 ---
 
 ## 🚀 About Me
-I am completing my Diploma in Application Development in ICT at CPUT, combining full-stack development with data analytics. I have also receiving specialized data analytics training at Capaciti, equipping me with skills in data-driven decision-making and insightful analysis. I enjoy creating scalable, user-friendly applications, database-driven solutions, and analytics tools that provide actionable insights. 
 
-I also love applying **Agile methodologies** to develop applications efficiently and enjoyably.  
+I am completing my **Diploma in ICT: Application Development** at the **Cape Peninsula University of Technology (CPUT)**.  
+I specialize in developing **scalable, service-oriented applications** using **Java** and **Spring Boot**, applying a **layered architecture** with **domain, service, factory, repository, and controller** layers.  
+
+I am expanding my expertise in **Data Analytics** through specialized training at **Capaciti**, enhancing my skills in **data structuring, cleaning, visualization, and modeling** using **Power BI**, **Excel**, and **Python**.  
+
+Driven by curiosity and innovation, I combine **software development**, **data analytics**, and **blockchain technology** to build **secure, impactful, and future-ready solutions**.
 
 ---
 
 ## 🎓 Education
-**Diploma in Application Development in ICT** - CPUT  
+
+- **Diploma in ICT: Application Development**  
+  📍 *Cape Peninsula University of Technology (CPUT)*  
+  📅 *2023 – Present*  
+
+- **Data Analytics Trainee Program**  
+  📍 *Capaciti*  
+  📅 *2025*  
 
 ---
 
-## 🌱 Skills & Technologies
+## 🏆 Achievements
 
-### Programming Languages & Tools
+- 🥇 **Winner – 2025 Stellar Hackathon**  
+  *Developed SkillLink Africa, a blockchain-powered freelance marketplace promoting secure and transparent transactions.*  
+
+- 📜 **CompTIA Data+ Certification (2025)**  
+
+- ⭐ **4-Star GitHub Contributor** — Recognized for project quality and consistent contributions.  
+
+---
+
+## 🧰 Skills & Technologies
+
+### 🖥️ Programming Languages & Frameworks
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot) 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![Blockchain](https://img.shields.io/badge/Blockchain-2C2D72?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
-[![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) 
+[![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Learning & Methodologies
+### 🧩 Databases & Tools
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+
+### 📊 Data Analytics & Visualization
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
+
+### 🧠 Learning & Methodologies
 - Data Analytics & Machine Learning  
+- Data Science (Structuring, Cleaning & Modeling)  
 - Spring Boot Advanced Concepts  
 - Blockchain Development  
-- Agile Software Development (Scrum/Kanban)  
+- Agile Software Development (Scrum & Kanban)  
 
 ---
 
-## 👨‍💻 Projects
-Check out my projects:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-brightgreen?style=for-the-badge&logo=appveyor)](https://portofilo-web.vercel.app)
+## 👨‍💻 Featured Project
+
+### 🌍 SkillLink Africa – Stellar Blockchain Application
+**Tech Stack:** React, Python, Stellar Blockchain  
+🔗 [View Project on GitHub](https://github.com/hloni2004/Stellar.git)  
+
+**Description:**  
+**SkillLink Africa** is a **decentralized freelance marketplace** built on the **Stellar network**, connecting clients with skilled workers across Africa.  
+
+The platform uses **smart contracts** and **escrow services** to ensure **secure, transparent, and trustless transactions**, solving payment security and trust issues between freelancers and clients.  
+
+**Core Features:**  
+- 🔒 Secure, automated **escrow smart contracts**  
+- 💼 Transparent job management for freelancers and clients  
+- 🌍 Blockchain-backed verification and payments  
+- 💰 Reduced transaction costs and fair compensation assurance  
 
 ---
 
 ## 💬 Ask Me About
-- Software Development Life Cycle (SDLC)  
-- Full-stack development with **React + Java + Spring Boot**  
-- Data Analytics & SQL  
-- Agile application development  
-
----
-
-## ⭐ Achievements
-- Earned **4 Stars** on GitHub 🌟🌟🌟🌟 – recognition for contributions and project quality!  
+- Building scalable applications using **Java + Spring Boot**  
+- Full-stack development with **React & Java**  
+- Data Analytics with **Power BI, Excel, and Python**  
+- Blockchain-based systems and smart contracts  
+- Agile Development & Project Collaboration  
 
 ---
 
@@ -69,16 +104,18 @@ Check out my projects:
 ---
 
 ## ⚡ Fun Fact
-I love **combining software development with data analytics and blockchain** to create **practical, futuristic solutions**.  
-I also enjoy **solving problems creatively** and building applications that users **actually enjoy using**.  
+I enjoy blending **software development, data analytics, and blockchain technology** to create **innovative, real-world solutions**.  
+Curiosity drives me to explore new technologies and build applications that people genuinely enjoy using.  
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Lehlohonolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hloni2004&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hloni2004&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)  
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hloni2004&theme=radical)
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)
+📅 **Last Updated:** November 2025
