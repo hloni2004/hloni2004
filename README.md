@@ -1,150 +1,135 @@
-# 👋 Hi, I'm [Lehlohonolo Mokoena](https://portofilo-web.vercel.app)
+# Hi, I'm [Lehlohonolo Mokoena](https://portofilo-web.vercel.app)
 
-A passionate **Full-Stack Developer & Data Analytics Trainee** from Cape Town, South Africa 🇿🇦  
-💻 Building Scalable Applications | 📊 Data-Driven Decision-Making | ⚡ Agile Enthusiast | 🌱 Continuous Learner  
-
----
-
-## 🚀 About Me
-
-I am completing my **Diploma in ICT: Application Development** at the **Cape Peninsula University of Technology (CPUT)**.  
-I specialize in developing **scalable, service-oriented applications** using **Java** and **Spring Boot**, applying a **layered architecture** with **domain, service, factory, repository, and controller** layers.  
-
-I am expanding my expertise in **Data Analytics** through specialized training at **Capaciti**, enhancing my skills in **data structuring, cleaning, visualization, and modeling** using **Power BI**, **Excel**, and **Python**.  
-Driven by curiosity and innovation, I combine **software development**, **data analytics**, and **blockchain technology** to build **secure, impactful, and future-ready solutions**.
+A passionate **Full-Stack Developer & Data Analyst** from Cape Town, South Africa.  
+Building scalable applications, driving data-driven decisions, and delivering practical solutions.
 
 ---
 
-## 🎓 Education
+## About Me
+
+I have **completed my Diploma in ICT: Application Development** at the **Cape Peninsula University of Technology (CPUT)**.  
+I specialize in developing **scalable, service-oriented applications** using **Java** and **Spring Boot**, applying **clean architecture** and **layered design** with domain, service, factory, repository, and controller layers.
+
+I have expanded my expertise in **Data Analytics** through specialized training at **Capaciti**, gaining skills in **data cleaning, modeling, visualization, and reporting** using **Python, SQL, Excel, and Power BI**.
+
+I combine **software development**, **data analytics**, and **blockchain technology** to deliver **secure, practical, and impactful solutions**, making me job-ready and capable of contributing to real-world projects from day one.
+
+---
+
+## Education
 
 - **Diploma in ICT: Application Development**  
-  📍 *Cape Peninsula University of Technology (CPUT)*  
-  📅 *2023 – Present*  
+  Cape Peninsula University of Technology (CPUT) — Completed 2025
 
 - **Data Analytics Trainee Program**  
-  📍 *Capaciti*  
-  📅 *2025*  
+  Capaciti — 2025
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **Winner – 2025 Stellar Hackathon**  
-  *Developed SkillLink Africa, a blockchain-powered freelance marketplace promoting secure and transparent transactions.*  
+- Winner – 2025 Stellar Hackathon  
+  Developed **SkillLink Africa**, a blockchain-powered freelance marketplace for secure transactions.
 
-- 📜 **CompTIA Data+ Certification (2025)**  
+- CompTIA Data+ Certification (2025)
 
-- ⭐ **4-Star GitHub Contributor** — Recognized for project quality and consistent contributions.  
-
----
-
-## 🧰 Skills & Technologies
-
-### 🖥️ Programming Languages & Frameworks
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot) 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) 
-[![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### 🧩 Databases & Tools
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-
-### 📊 Data Analytics & Visualization
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
-
-### 🧠 Learning & Methodologies
-- Data Analytics & Machine Learning  
-- Data Science (Structuring, Cleaning & Modeling)  
-- Spring Boot Advanced Concepts  
-- Blockchain Development  
-- Agile Software Development (Scrum & Kanban)  
+- Recognized as a **4-Star GitHub Contributor** for high-quality projects and consistent contributions.
 
 ---
 
-## 👨‍💻 Featured Projects
+## Skills & Technologies
 
-### 🌍 SkillLink Africa – Stellar Blockchain Application
+### Programming Languages & Frameworks
+- Java  
+- Spring Boot  
+- Python  
+- JavaScript  
+- React  
+- React Native  
+
+### Databases & Tools
+- SQL (MySQL, SQLite, PostgreSQL)  
+- Postman  
+- Git  
+
+### Data Analytics & Visualization
+- Power BI  
+- Excel  
+- Python (pandas, numpy, matplotlib, seaborn)  
+
+### Concepts & Methodologies
+- Data structuring, cleaning, modeling, and visualization  
+- Clean code and layered architecture  
+- Event-driven & microservice concepts  
+- Agile software development (Scrum & Kanban)  
+- Blockchain development (smart contracts, Stellar network)  
+
+---
+
+## Featured Projects
+
+### SkillLink Africa – Stellar Blockchain Marketplace
 **Tech Stack:** React, Python, Stellar Blockchain  
-🔗 [View Project on GitHub](https://github.com/hloni2004/Stellar.git)  
+[View Project](https://github.com/hloni2004/Stellar.git)
 
-**Description:**  
-**SkillLink Africa** is a **decentralized freelance marketplace** built on the **Stellar network**, connecting clients with skilled workers across Africa.  
+A decentralized freelance marketplace enabling **secure and transparent transactions** between clients and freelancers.
 
-The platform uses **smart contracts** and **escrow services** to ensure **secure, transparent, and trustless transactions**, solving payment security and trust issues between freelancers and clients.  
-
-**Core Features:**  
-- 🔒 Secure, automated **escrow smart contracts**  
-- 💼 Transparent job management for freelancers and clients  
-- 🌍 Blockchain-backed verification and payments  
-- 💰 Reduced transaction costs and fair compensation assurance  
+**Key Features:**  
+- Smart contract escrow system  
+- Job management & verification  
+- Blockchain-backed verification and payments
 
 ---
 
-### 🚨 Emergency Management App
+### Emergency Management App
 **Tech Stack:** Java, Spring Boot, React Native, SQLite  
-🔗 [View Project on GitHub](https://github.com/hloni2004/AlertEmegerency)  
+[View Project](https://github.com/hloni2004/AlertEmegerency)
 
-**Description:**  
-A **mobile-first emergency management application** designed to streamline the reporting and handling of emergencies, ensuring fast and effective coordination between users and emergency services.  
+A mobile-first app for **incident reporting and emergency coordination**.
 
-**Core Features:**  
-- 🆘 Real-time incident reporting  
-- 📍 Location tracking for emergency services  
-- 📝 Centralized dashboard for monitoring and managing incidents  
-- 🔔 Notifications to responders and stakeholders for timely action  
+**Key Features:**  
+- Real-time incident reporting  
+- Location tracking  
+- Centralized dashboard  
+- Notifications for responders
 
 ---
 
-### 🏫 Student Market – Campus Marketplace Platform
+### Student Market – Campus Marketplace
 **Tech Stack:** Java, Spring Boot, React  
-🔗 [View Project on GitHub](https://github.com/hloni2004/StudentMarket2)  
+[View Project](https://github.com/hloni2004/StudentMarket2)
 
-**Description:**  
-**The Student Market** is a student-driven platform that enables learners to **showcase and sell their products** within campus residences and surrounding communities.  
-It encourages entrepreneurship, community engagement, and local economic participation.  
+Platform for students to **showcase and sell products** within campus communities.
 
-**Core Features:**  
-- 🛒 Product listing and management  
-- 👥 User accounts for students and sellers  
-- 💬 Messaging and order tracking  
-- 📊 Dashboard for sales analytics and reporting  
+**Key Features:**  
+- Product listings and user accounts  
+- Messaging and order tracking  
+- Sales analytics dashboard
 
 ---
 
-## 💬 Ask Me About
-- Building scalable applications using **Java + Spring Boot**  
-- Full-stack development with **React & Java**  
-- Data Analytics with **Power BI, Excel, and Python**  
-- Blockchain-based systems and smart contracts  
-- Agile Development & Project Collaboration  
+## Ask Me About
+- Building **scalable backend systems** with Java + Spring Boot  
+- Full-stack development with React and Java  
+- Data Analytics using Python, SQL, Excel, Power BI  
+- Blockchain systems and smart contracts  
+- Agile development and team collaboration
 
 ---
 
-## 📫 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-hloniyacho@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hloniyacho@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lehlohonolo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/)  
-[![GitHub](https://img.shields.io/badge/GitHub-hloni2004-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hloni2004)  
+## Connect With Me
+- Email: hloniyacho@gmail.com  
+- LinkedIn: [Lehlohonolo Mokoena](https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/)  
+- GitHub: [hloni2004](https://github.com/hloni2004)
 
 ---
 
-## ⚡ Fun Fact
-I enjoy blending **software development, data analytics, and blockchain technology** to create **innovative, real-world solutions**.  
-Curiosity drives me to explore new technologies and build applications that people genuinely enjoy using.  
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Lehlohonolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hloni2004&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hloni2004&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hloni2004&theme=radical)
 
 ---
 
-📅 **Last Updated:** November 2025
+**Last Updated:** January 2026
